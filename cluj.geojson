@@ -1,0 +1,2819 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-04-16T08:22:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/45424870",
+      "properties": {
+        "@id": "way/45424870",
+        "addr:country": "RO",
+        "admin_level": "6",
+        "boundary": "administrative",
+        "fixme": "resurvey",
+        "is_in": "Cluj,Romania",
+        "name": "Cluj-Napoca",
+        "name:de": "Klausenburg",
+        "name:hu": "Kolozsvár",
+        "name:la": "Claudianopolis",
+        "name:ru": "Клуж-Напока",
+        "place": "city",
+        "population": "324576",
+        "siruta:code": "54984"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.5998498,
+              46.8190107
+            ],
+            [
+              23.5980974,
+              46.8201137
+            ],
+            [
+              23.597367,
+              46.8192138
+            ],
+            [
+              23.5985762,
+              46.8178192
+            ],
+            [
+              23.5985957,
+              46.8177967
+            ],
+            [
+              23.5998911,
+              46.8163027
+            ],
+            [
+              23.6002269,
+              46.8141659
+            ],
+            [
+              23.601616,
+              46.8125036
+            ],
+            [
+              23.6016868,
+              46.8117715
+            ],
+            [
+              23.6001707,
+              46.8106506
+            ],
+            [
+              23.6008662,
+              46.8089825
+            ],
+            [
+              23.6030309,
+              46.8089793
+            ],
+            [
+              23.602667,
+              46.8053883
+            ],
+            [
+              23.6040495,
+              46.8029637
+            ],
+            [
+              23.6054958,
+              46.8003046
+            ],
+            [
+              23.6056534,
+              46.7993635
+            ],
+            [
+              23.6045776,
+              46.799264
+            ],
+            [
+              23.6025884,
+              46.7996103
+            ],
+            [
+              23.6010472,
+              46.7990916
+            ],
+            [
+              23.601128,
+              46.7978105
+            ],
+            [
+              23.6026007,
+              46.7978543
+            ],
+            [
+              23.6020456,
+              46.7972974
+            ],
+            [
+              23.6000221,
+              46.7966292
+            ],
+            [
+              23.5971405,
+              46.7955302
+            ],
+            [
+              23.5965858,
+              46.796527
+            ],
+            [
+              23.5948654,
+              46.7957327
+            ],
+            [
+              23.5933158,
+              46.7953488
+            ],
+            [
+              23.5920908,
+              46.7960553
+            ],
+            [
+              23.5897858,
+              46.795176
+            ],
+            [
+              23.5887229,
+              46.7964277
+            ],
+            [
+              23.5879375,
+              46.7964043
+            ],
+            [
+              23.5863112,
+              46.7956802
+            ],
+            [
+              23.5842178,
+              46.7956802
+            ],
+            [
+              23.5840488,
+              46.7956802
+            ],
+            [
+              23.5818975,
+              46.7954808
+            ],
+            [
+              23.5807663,
+              46.7962576
+            ],
+            [
+              23.5792083,
+              46.7960083
+            ],
+            [
+              23.5784785,
+              46.7951083
+            ],
+            [
+              23.576563,
+              46.7936729
+            ],
+            [
+              23.5761872,
+              46.7946344
+            ],
+            [
+              23.5750603,
+              46.795033
+            ],
+            [
+              23.5741964,
+              46.7950071
+            ],
+            [
+              23.5739716,
+              46.7949987
+            ],
+            [
+              23.5736345,
+              46.7949631
+            ],
+            [
+              23.5729725,
+              46.7948092
+            ],
+            [
+              23.5722869,
+              46.7944922
+            ],
+            [
+              23.5726293,
+              46.7936631
+            ],
+            [
+              23.5717109,
+              46.7932573
+            ],
+            [
+              23.5722301,
+              46.7925163
+            ],
+            [
+              23.5708199,
+              46.7924199
+            ],
+            [
+              23.5710696,
+              46.7909683
+            ],
+            [
+              23.5711347,
+              46.7899435
+            ],
+            [
+              23.5688097,
+              46.7893873
+            ],
+            [
+              23.5679317,
+              46.7908201
+            ],
+            [
+              23.5656176,
+              46.7911447
+            ],
+            [
+              23.5645577,
+              46.7919077
+            ],
+            [
+              23.5636006,
+              46.7937156
+            ],
+            [
+              23.5601137,
+              46.7925367
+            ],
+            [
+              23.5591321,
+              46.7910346
+            ],
+            [
+              23.5598831,
+              46.7895397
+            ],
+            [
+              23.5602854,
+              46.7889484
+            ],
+            [
+              23.5598723,
+              46.7887023
+            ],
+            [
+              23.5588799,
+              46.7880595
+            ],
+            [
+              23.5559402,
+              46.7877289
+            ],
+            [
+              23.5531044,
+              46.7876719
+            ],
+            [
+              23.5518833,
+              46.7858517
+            ],
+            [
+              23.5490737,
+              46.7854967
+            ],
+            [
+              23.5457114,
+              46.7845575
+            ],
+            [
+              23.5449909,
+              46.7836778
+            ],
+            [
+              23.5475698,
+              46.7817967
+            ],
+            [
+              23.5561259,
+              46.7817846
+            ],
+            [
+              23.5618787,
+              46.7810121
+            ],
+            [
+              23.5620033,
+              46.7790568
+            ],
+            [
+              23.5606178,
+              46.7761104
+            ],
+            [
+              23.5582883,
+              46.775635
+            ],
+            [
+              23.5535562,
+              46.7758301
+            ],
+            [
+              23.5514618,
+              46.7747537
+            ],
+            [
+              23.5481522,
+              46.7726948
+            ],
+            [
+              23.5447824,
+              46.7715797
+            ],
+            [
+              23.5451884,
+              46.7706125
+            ],
+            [
+              23.5438535,
+              46.7699641
+            ],
+            [
+              23.5419675,
+              46.7702449
+            ],
+            [
+              23.5395663,
+              46.7693616
+            ],
+            [
+              23.5382228,
+              46.768848
+            ],
+            [
+              23.5369702,
+              46.7669186
+            ],
+            [
+              23.5383767,
+              46.7664478
+            ],
+            [
+              23.5374047,
+              46.7656618
+            ],
+            [
+              23.5365182,
+              46.7647703
+            ],
+            [
+              23.5354124,
+              46.7648448
+            ],
+            [
+              23.5344393,
+              46.7653017
+            ],
+            [
+              23.5334397,
+              46.7649471
+            ],
+            [
+              23.5324747,
+              46.7640532
+            ],
+            [
+              23.5325094,
+              46.7635139
+            ],
+            [
+              23.5336198,
+              46.7621424
+            ],
+            [
+              23.5361418,
+              46.7620568
+            ],
+            [
+              23.5399093,
+              46.7621709
+            ],
+            [
+              23.5407875,
+              46.7607383
+            ],
+            [
+              23.543708,
+              46.7608921
+            ],
+            [
+              23.5437853,
+              46.760798
+            ],
+            [
+              23.5431822,
+              46.7581752
+            ],
+            [
+              23.5433597,
+              46.7576982
+            ],
+            [
+              23.5435325,
+              46.757438
+            ],
+            [
+              23.5438672,
+              46.757026
+            ],
+            [
+              23.5428866,
+              46.7555196
+            ],
+            [
+              23.5418818,
+              46.7548084
+            ],
+            [
+              23.5409162,
+              46.7544166
+            ],
+            [
+              23.5386244,
+              46.7521612
+            ],
+            [
+              23.5387074,
+              46.7508668
+            ],
+            [
+              23.5385929,
+              46.7489718
+            ],
+            [
+              23.5389206,
+              46.7487656
+            ],
+            [
+              23.5402476,
+              46.748557
+            ],
+            [
+              23.5422155,
+              46.7486493
+            ],
+            [
+              23.5431335,
+              46.7501582
+            ],
+            [
+              23.5459961,
+              46.7500153
+            ],
+            [
+              23.5486639,
+              46.7499821
+            ],
+            [
+              23.5494693,
+              46.749787
+            ],
+            [
+              23.5495728,
+              46.749131
+            ],
+            [
+              23.5511764,
+              46.7487186
+            ],
+            [
+              23.5533026,
+              46.7490334
+            ],
+            [
+              23.5555134,
+              46.7480057
+            ],
+            [
+              23.5558999,
+              46.7462391
+            ],
+            [
+              23.5560043,
+              46.7460653
+            ],
+            [
+              23.5561893,
+              46.7457573
+            ],
+            [
+              23.5569074,
+              46.7451382
+            ],
+            [
+              23.5575749,
+              46.7443259
+            ],
+            [
+              23.5588064,
+              46.7433517
+            ],
+            [
+              23.5596969,
+              46.7449838
+            ],
+            [
+              23.5609651,
+              46.7447275
+            ],
+            [
+              23.5614545,
+              46.745092
+            ],
+            [
+              23.5621201,
+              46.7464656
+            ],
+            [
+              23.563616,
+              46.7472787
+            ],
+            [
+              23.56472,
+              46.7470746
+            ],
+            [
+              23.5656979,
+              46.7448001
+            ],
+            [
+              23.5641944,
+              46.74366
+            ],
+            [
+              23.5643711,
+              46.7414181
+            ],
+            [
+              23.5661556,
+              46.7422334
+            ],
+            [
+              23.56746,
+              46.7415468
+            ],
+            [
+              23.5678983,
+              46.7407173
+            ],
+            [
+              23.5746115,
+              46.7451903
+            ],
+            [
+              23.569232,
+              46.7495441
+            ],
+            [
+              23.5693877,
+              46.7506028
+            ],
+            [
+              23.5724411,
+              46.7520454
+            ],
+            [
+              23.5733697,
+              46.7498035
+            ],
+            [
+              23.575069,
+              46.7484223
+            ],
+            [
+              23.5765771,
+              46.7481973
+            ],
+            [
+              23.5764954,
+              46.7494868
+            ],
+            [
+              23.5764027,
+              46.7509482
+            ],
+            [
+              23.5766404,
+              46.7515611
+            ],
+            [
+              23.5769381,
+              46.7522366
+            ],
+            [
+              23.5770849,
+              46.7525899
+            ],
+            [
+              23.5781051,
+              46.7526204
+            ],
+            [
+              23.5781359,
+              46.752135
+            ],
+            [
+              23.5799272,
+              46.7524047
+            ],
+            [
+              23.5815582,
+              46.7514808
+            ],
+            [
+              23.5813411,
+              46.7510941
+            ],
+            [
+              23.5812197,
+              46.7508935
+            ],
+            [
+              23.5808261,
+              46.7501896
+            ],
+            [
+              23.5789947,
+              46.7469147
+            ],
+            [
+              23.5823529,
+              46.7448547
+            ],
+            [
+              23.5834279,
+              46.7437108
+            ],
+            [
+              23.5848055,
+              46.74238
+            ],
+            [
+              23.5880585,
+              46.7423021
+            ],
+            [
+              23.5898008,
+              46.7417066
+            ],
+            [
+              23.5918436,
+              46.7412301
+            ],
+            [
+              23.5933499,
+              46.7414889
+            ],
+            [
+              23.5947962,
+              46.7429888
+            ],
+            [
+              23.5948648,
+              46.7448165
+            ],
+            [
+              23.5979397,
+              46.7453017
+            ],
+            [
+              23.5994203,
+              46.7455341
+            ],
+            [
+              23.6010833,
+              46.7460957
+            ],
+            [
+              23.6025574,
+              46.7464074
+            ],
+            [
+              23.6070828,
+              46.7468324
+            ],
+            [
+              23.6076847,
+              46.7471694
+            ],
+            [
+              23.6080227,
+              46.7474146
+            ],
+            [
+              23.6093659,
+              46.7477146
+            ],
+            [
+              23.6106191,
+              46.7486526
+            ],
+            [
+              23.6129579,
+              46.7503963
+            ],
+            [
+              23.6142497,
+              46.7516519
+            ],
+            [
+              23.6168461,
+              46.7523929
+            ],
+            [
+              23.6185284,
+              46.7538072
+            ],
+            [
+              23.6211519,
+              46.7564139
+            ],
+            [
+              23.6208354,
+              46.7577015
+            ],
+            [
+              23.6248383,
+              46.7578198
+            ],
+            [
+              23.6243827,
+              46.7600761
+            ],
+            [
+              23.6253897,
+              46.760322
+            ],
+            [
+              23.6252476,
+              46.7616529
+            ],
+            [
+              23.6251999,
+              46.7620997
+            ],
+            [
+              23.625654,
+              46.7623833
+            ],
+            [
+              23.6266711,
+              46.7624674
+            ],
+            [
+              23.6269177,
+              46.7635555
+            ],
+            [
+              23.628621,
+              46.763984
+            ],
+            [
+              23.6316074,
+              46.764018
+            ],
+            [
+              23.6329323,
+              46.7648407
+            ],
+            [
+              23.6327786,
+              46.768565
+            ],
+            [
+              23.6340359,
+              46.769845
+            ],
+            [
+              23.6392581,
+              46.773133
+            ],
+            [
+              23.6427495,
+              46.7758026
+            ],
+            [
+              23.6447004,
+              46.777319
+            ],
+            [
+              23.645397,
+              46.7775016
+            ],
+            [
+              23.6460278,
+              46.777089
+            ],
+            [
+              23.6476109,
+              46.7760534
+            ],
+            [
+              23.6502805,
+              46.7761316
+            ],
+            [
+              23.6522134,
+              46.7766746
+            ],
+            [
+              23.6521062,
+              46.7784008
+            ],
+            [
+              23.6795825,
+              46.7801141
+            ],
+            [
+              23.681442,
+              46.7770607
+            ],
+            [
+              23.6831769,
+              46.7760302
+            ],
+            [
+              23.686919,
+              46.775936
+            ],
+            [
+              23.6893093,
+              46.7762417
+            ],
+            [
+              23.6932229,
+              46.7765576
+            ],
+            [
+              23.6960942,
+              46.7762354
+            ],
+            [
+              23.6977059,
+              46.7756064
+            ],
+            [
+              23.6973999,
+              46.774179
+            ],
+            [
+              23.6956666,
+              46.7717518
+            ],
+            [
+              23.6968346,
+              46.7710172
+            ],
+            [
+              23.6972322,
+              46.7710287
+            ],
+            [
+              23.6982705,
+              46.7710587
+            ],
+            [
+              23.6983033,
+              46.7710894
+            ],
+            [
+              23.6991076,
+              46.7718431
+            ],
+            [
+              23.6996109,
+              46.7723714
+            ],
+            [
+              23.6996276,
+              46.7723889
+            ],
+            [
+              23.7010822,
+              46.772125
+            ],
+            [
+              23.7020159,
+              46.7731415
+            ],
+            [
+              23.7015732,
+              46.774955
+            ],
+            [
+              23.702846,
+              46.7758273
+            ],
+            [
+              23.7047838,
+              46.7764857
+            ],
+            [
+              23.7047837,
+              46.7764868
+            ],
+            [
+              23.704614,
+              46.778089
+            ],
+            [
+              23.7041324,
+              46.7795342
+            ],
+            [
+              23.7032647,
+              46.7808602
+            ],
+            [
+              23.7024723,
+              46.7854579
+            ],
+            [
+              23.7008132,
+              46.7855722
+            ],
+            [
+              23.699422,
+              46.7868254
+            ],
+            [
+              23.6993212,
+              46.7878292
+            ],
+            [
+              23.6992005,
+              46.7885995
+            ],
+            [
+              23.6988763,
+              46.7899337
+            ],
+            [
+              23.6977069,
+              46.791192
+            ],
+            [
+              23.6976194,
+              46.7912861
+            ],
+            [
+              23.692801,
+              46.7911324
+            ],
+            [
+              23.687443,
+              46.7903305
+            ],
+            [
+              23.6831633,
+              46.7893981
+            ],
+            [
+              23.6794523,
+              46.788517
+            ],
+            [
+              23.6749032,
+              46.787308
+            ],
+            [
+              23.6716314,
+              46.7861044
+            ],
+            [
+              23.6712734,
+              46.7842565
+            ],
+            [
+              23.6700349,
+              46.7826533
+            ],
+            [
+              23.6678708,
+              46.7807528
+            ],
+            [
+              23.6640919,
+              46.7833447
+            ],
+            [
+              23.6597962,
+              46.7853809
+            ],
+            [
+              23.6599169,
+              46.7883779
+            ],
+            [
+              23.6599188,
+              46.7884306
+            ],
+            [
+              23.6599199,
+              46.7884648
+            ],
+            [
+              23.6600362,
+              46.78892
+            ],
+            [
+              23.6606168,
+              46.7911873
+            ],
+            [
+              23.6580534,
+              46.791923
+            ],
+            [
+              23.6561365,
+              46.7936503
+            ],
+            [
+              23.6548845,
+              46.7973425
+            ],
+            [
+              23.6453258,
+              46.7973056
+            ],
+            [
+              23.6342774,
+              46.7965485
+            ],
+            [
+              23.6337051,
+              46.7981529
+            ],
+            [
+              23.6320758,
+              46.7977807
+            ],
+            [
+              23.6287185,
+              46.7973575
+            ],
+            [
+              23.6265539,
+              46.7979962
+            ],
+            [
+              23.6244913,
+              46.7982596
+            ],
+            [
+              23.6233363,
+              46.7972257
+            ],
+            [
+              23.6212983,
+              46.7983544
+            ],
+            [
+              23.6194477,
+              46.7990022
+            ],
+            [
+              23.6194004,
+              46.7997574
+            ],
+            [
+              23.6184172,
+              46.8003768
+            ],
+            [
+              23.6181037,
+              46.8016105
+            ],
+            [
+              23.6157336,
+              46.8017565
+            ],
+            [
+              23.6134318,
+              46.8020666
+            ],
+            [
+              23.6115742,
+              46.8028222
+            ],
+            [
+              23.6103959,
+              46.8027873
+            ],
+            [
+              23.6100433,
+              46.8008854
+            ],
+            [
+              23.6096642,
+              46.800658
+            ],
+            [
+              23.6087769,
+              46.8022529
+            ],
+            [
+              23.6092007,
+              46.803022
+            ],
+            [
+              23.6095634,
+              46.8047621
+            ],
+            [
+              23.6093933,
+              46.8062162
+            ],
+            [
+              23.6082047,
+              46.806343
+            ],
+            [
+              23.6082323,
+              46.8071545
+            ],
+            [
+              23.6101042,
+              46.8074262
+            ],
+            [
+              23.6103198,
+              46.8083783
+            ],
+            [
+              23.609395,
+              46.8105666
+            ],
+            [
+              23.6078204,
+              46.8105739
+            ],
+            [
+              23.6057891,
+              46.8140803
+            ],
+            [
+              23.6034124,
+              46.8168199
+            ],
+            [
+              23.6020766,
+              46.8167802
+            ],
+            [
+              23.5998498,
+              46.8190107
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/962186028",
+      "properties": {
+        "@id": "node/962186028",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:postcode": "400091",
+        "addr:street": "Strada Inocențiu Micu Klein",
+        "amenity": "cafe",
+        "name": "Bulgakov",
+        "opening_hours": "08:00-24:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5878531,
+          46.7671737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/962222713",
+      "properties": {
+        "@id": "node/962222713",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Universității",
+        "amenity": "cafe",
+        "name": "Insomnia Art Cafe",
+        "opening_hours": "08:00-24:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5898968,
+          46.7681369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/963706846",
+      "properties": {
+        "@id": "node/963706846",
+        "addr:city": "Cluj-Napoca",
+        "amenity": "cafe",
+        "cuisine": "tea",
+        "name": "Demmers Teehouse",
+        "smoking": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.589548,
+          46.7686989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1244306290",
+      "properties": {
+        "@id": "node/1244306290",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Piezișă",
+        "amenity": "cafe",
+        "name": "Solas",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5768284,
+          46.7638635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1244306291",
+      "properties": {
+        "@id": "node/1244306291",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Piezișă",
+        "amenity": "cafe",
+        "name": "Big Apple",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5767274,
+          46.7639437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1376265303",
+      "properties": {
+        "@id": "node/1376265303",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "12A",
+        "addr:street": "Strada Constantin Brincusi",
+        "amenity": "cafe",
+        "name": "Il caffe",
+        "website": "http://ilcaffe.ro/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.602472,
+          46.7667634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1568138672",
+      "properties": {
+        "@id": "node/1568138672",
+        "addr:city": "Cluj-Napoca",
+        "addr:housenumber": "27",
+        "addr:postcode": "400165",
+        "addr:street": "Strada Emil Racoviță",
+        "amenity": "cafe",
+        "cuisine": "tea",
+        "email": "contact@samsara.ro",
+        "internet_access": "wlan",
+        "name": "Samsara Chill-Out & Tea House",
+        "opening_hours": "Mo-Su 14:00-02:00",
+        "phone": "+40 753 775 052",
+        "smoking": "no",
+        "source": "local survey",
+        "website": "http://samsara.ro/",
+        "wifi": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5841977,
+          46.7768028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1669910329",
+      "properties": {
+        "@id": "node/1669910329",
+        "addr:housenumber": "5",
+        "addr:street": "Strada Émile Zola",
+        "amenity": "cafe",
+        "name": "Londoner",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5880174,
+          46.7717231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1693706988",
+      "properties": {
+        "@id": "node/1693706988",
+        "addr:city": "Cluj-Napoca",
+        "addr:housenumber": "27",
+        "addr:postcode": "400027",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada George Barițiu",
+        "amenity": "cafe",
+        "name": "Decanat",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5851219,
+          46.7718741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1704936537",
+      "properties": {
+        "@id": "node/1704936537",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "13",
+        "addr:postcode": "400002",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Petru Maior",
+        "amenity": "cafe",
+        "name": "Q Caffe",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5856899,
+          46.7680051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1705475080",
+      "properties": {
+        "@id": "node/1705475080",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "10",
+        "addr:postcode": "400009",
+        "addr:street": "Strada Napoca",
+        "amenity": "cafe",
+        "designation": "Doamna T - delicatesse - magasin - dinette",
+        "name": "Doamna T",
+        "opening_hours": "Mo-Fr 10:00-00:00;Sa-Su 11:00-00:00",
+        "source": "GPS",
+        "website": "http://doamnat.ro/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5876469,
+          46.7680296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1711818122",
+      "properties": {
+        "@id": "node/1711818122",
+        "amenity": "cafe",
+        "name": "High Life",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.58836,
+          46.7704001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2119472707",
+      "properties": {
+        "@id": "node/2119472707",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "19",
+        "addr:postcode": "400119",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Pitești",
+        "amenity": "cafe",
+        "designation": "Coworking space",
+        "name": "Cluj Hub",
+        "website": "http://clujhub.ro/",
+        "wifi": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5996859,
+          46.7735434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2329133372",
+      "properties": {
+        "@id": "node/2329133372",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Iuliu Maniu",
+        "amenity": "cafe",
+        "name": "House of Jack",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.590824,
+          46.7702599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2329227542",
+      "properties": {
+        "@id": "node/2329227542",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Bulevardul Eroilor",
+        "amenity": "cafe",
+        "name": "Olivo Caffe & Bistro",
+        "opening_hours": "Mo-Fr 08:00-22:50;Sa-Su 10:00-22:50",
+        "smoking": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5919735,
+          46.769716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2329399682",
+      "properties": {
+        "@id": "node/2329399682",
+        "amenity": "cafe",
+        "name": "New York Caffee",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5898873,
+          46.7682009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2329408496",
+      "properties": {
+        "@id": "node/2329408496",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "6",
+        "addr:postcode": "400091",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Universității",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Casa TIFF",
+        "smoking": "outside",
+        "tiff2014": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5900145,
+          46.7677636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2333067693",
+      "properties": {
+        "@id": "node/2333067693",
+        "amenity": "cafe",
+        "name": "Piano Cazola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5875437,
+          46.7708625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2333067696",
+      "properties": {
+        "@id": "node/2333067696",
+        "addr:city": "Cluj-Napoca",
+        "addr:housenumber": "37",
+        "addr:postcode": "400027",
+        "addr:street": "Strada Regele Ferdinand",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/pages/Coffee-OClock-Cluj-Napoca/274274752597836",
+        "contact:website": "http://www.coffeeoclock.com/",
+        "name": "Coffee O'Clock",
+        "opening_hours": "Mo-Fr 07:00-20:00;Sa 09:00-20:00;Su 10:00-20:00",
+        "website": "http://www.coffeeoclock.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5876807,
+          46.7738983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2334399824",
+      "properties": {
+        "@id": "node/2334399824",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "13",
+        "addr:postcode": "400124",
+        "addr:street": "Piața Avram Iancu",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Mustache Cafe",
+        "opening_hours": "Mo-Fr 08:30-00:00; Sa-Su 09:30-00:00",
+        "smoking": "outside",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5957875,
+          46.772875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2341732512",
+      "properties": {
+        "@id": "node/2341732512",
+        "addr:housename": "Zorki Photo Cafe",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Ion Rațiu",
+        "amenity": "cafe",
+        "floor": "1",
+        "name": "Zorki Photo Cafe",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5880975,
+          46.7686679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2351146055",
+      "properties": {
+        "@id": "node/2351146055",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "amenity": "cafe",
+        "name": "Origine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5757042,
+          46.764802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2360430639",
+      "properties": {
+        "@id": "node/2360430639",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "1",
+        "addr:postcode": "400032",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Cișmigiu",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Qui One Quint tea room",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.579871,
+          46.7693642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2383718069",
+      "properties": {
+        "@id": "node/2383718069",
+        "addr:housenumber": "7",
+        "addr:street": "Strada Cardinal Iuliu Hossu",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Amadeus Mozart Cafe",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5832606,
+          46.7702349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2453862834",
+      "properties": {
+        "@id": "node/2453862834",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "amenity": "cafe",
+        "name": "Tango Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5881559,
+          46.7638578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2454145109",
+      "properties": {
+        "@id": "node/2454145109",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housename": "Chelsea Cigar Lounge",
+        "addr:housenumber": "2",
+        "addr:postcode": "400462",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Constantin Brâncuși",
+        "amenity": "cafe",
+        "name": "Chelsea Cigar Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6011342,
+          46.7674761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2455435140",
+      "properties": {
+        "@id": "node/2455435140",
+        "addr:city": "Cluj-Napoca",
+        "addr:street": "Strada Croitorilor",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5931673,
+          46.7758391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2513654893",
+      "properties": {
+        "@id": "node/2513654893",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Friends",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5914505,
+          46.7720768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2544800082",
+      "properties": {
+        "@id": "node/2544800082",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "N8 Coffee & Social Affairs",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5899915,
+          46.7675769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2633795458",
+      "properties": {
+        "@id": "node/2633795458",
+        "amenity": "cafe",
+        "name": "Francesca",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "smoking": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.587586,
+          46.7720217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2633933433",
+      "properties": {
+        "@id": "node/2633933433",
+        "amenity": "cafe",
+        "name": "Soul caffe & pub",
+        "opening_hours": "Mo-Su 08:00-05:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.587751,
+          46.7713757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2633978181",
+      "properties": {
+        "@id": "node/2633978181",
+        "addr:city": "Cluj-Napoca",
+        "addr:housenumber": "12",
+        "addr:postcode": "400015",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Piața Unirii",
+        "amenity": "cafe",
+        "email": "office@toulouse.ro",
+        "name": "Toulouse",
+        "opening_hours": "Mo-Su 08:00-04:00",
+        "phone": "+40 730 112 354",
+        "smoking": "outside",
+        "source": "local knowledge, website",
+        "website": "http://toulouse.ro/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5891512,
+          46.7691656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2634045738",
+      "properties": {
+        "@id": "node/2634045738",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "12",
+        "addr:postcode": "400095",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Iuliu Maniu",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Enigma Cafe",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5928768,
+          46.7706757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2634370073",
+      "properties": {
+        "@id": "node/2634370073",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "amenity": "cafe",
+        "name": "Sahara Cafe",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5903823,
+          46.7732898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2634525285",
+      "properties": {
+        "@id": "node/2634525285",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "amenity": "cafe",
+        "name": "Sister's Cafe",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5899544,
+          46.7680152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2642138381",
+      "properties": {
+        "@id": "node/2642138381",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Piața Ștefan cel Mare",
+        "amenity": "cafe",
+        "name": "Opera Food & Cafe",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5966775,
+          46.7702073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2642146436",
+      "properties": {
+        "@id": "node/2642146436",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Piața Ștefan cel Mare",
+        "amenity": "cafe",
+        "name": "Crazy Cafe",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5971009,
+          46.7695093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2817958603",
+      "properties": {
+        "@id": "node/2817958603",
+        "addr:city": "Cluj-Napoca",
+        "addr:street": "Strada Decebal",
+        "addr:streetnumber": "104",
+        "amenity": "cafe",
+        "name": "Cafe-Bar Cătă",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5912205,
+          46.7833554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2820148721",
+      "properties": {
+        "@id": "node/2820148721",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:postcode": "400591",
+        "addr:street": "Strada Teodor Mihali",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "no",
+        "name": "Charlie Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6214589,
+          46.7757161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2834409453",
+      "properties": {
+        "@id": "node/2834409453",
+        "amenity": "cafe",
+        "name": "34 Caffe",
+        "opening_hours": "Mo- Fr 07:00-23:00, Sa- Su 09:00-23:00",
+        "phone": "0758530468",
+        "website": "https://www.facebook.com/pages/34-CAFF%C3%89/422190674545964"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5875259,
+          46.777628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2848080109",
+      "properties": {
+        "@id": "node/2848080109",
+        "addr:city": "Cluj-Napoca",
+        "addr:housenumber": "9",
+        "addr:postcode": "400023",
+        "addr:street": "Strada Emil Isac",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Papillon",
+        "phone": "+40 721 274 705",
+        "smoking": "outside",
+        "source": "survey",
+        "website": "https://www.facebook.com/papillon.cluj"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5850591,
+          46.7699361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2848080110",
+      "properties": {
+        "@id": "node/2848080110",
+        "addr:city": "Cluj-Napoca",
+        "addr:housenumber": "11",
+        "addr:postcode": "400023",
+        "addr:street": "Strada Emil Isac",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Flowers Tea House",
+        "opening_hours": "Mo-Fr 08:00-23:00;Sa-Su 10:00-23:00",
+        "smoking": "outside",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5850479,
+          46.7699703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2849970181",
+      "properties": {
+        "@id": "node/2849970181",
+        "addr:city": "Cluj-Napoca",
+        "addr:housenumber": "21",
+        "addr:postcode": "400133",
+        "addr:street": "Piața Unirii",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Yolka",
+        "opening_hours": "Mo-Fr 10:00-02:00;Sa-Su 11:00-2:00",
+        "phone": "+40 753 083 151",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.588604,
+          46.770449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2860528476",
+      "properties": {
+        "@id": "node/2860528476",
+        "addr:city": "Cluj-Napoca",
+        "addr:housenumber": "36",
+        "addr:postcode": "400110",
+        "addr:street": "Strada Regele Ferdinand",
+        "amenity": "cafe",
+        "name": "Cafe Noar",
+        "opening_hours": "Mo-Fr 08:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5883961,
+          46.7736422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2868202701",
+      "properties": {
+        "@id": "node/2868202701",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "70",
+        "addr:postcode": "400124",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Bulevardul 21 Decembrie 1989",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Grotta",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5980146,
+          46.77336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2876784801",
+      "properties": {
+        "@id": "node/2876784801",
+        "addr:city": "Cluj-Napoca",
+        "addr:street": "Aleea Scărilor",
+        "amenity": "cafe",
+        "email": "pergolla@yahoo.com",
+        "name": "Pergola",
+        "phone": "+40 745 154 013; +40 745 154 013",
+        "source": "survey",
+        "website": "http://www.pergola-cafe.ro/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5838047,
+          46.7740449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2935039501",
+      "properties": {
+        "@id": "node/2935039501",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "10",
+        "addr:postcode": "400276",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Burebista",
+        "amenity": "cafe",
+        "internet_access": "no",
+        "name": "Vegas caffe",
+        "opening_hours": "Mo-Sa 08:00-22:00",
+        "smoking": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5893339,
+          46.7839418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2942199301",
+      "properties": {
+        "@id": "node/2942199301",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "23",
+        "addr:postcode": "400604",
+        "addr:street": "Strada Petőfi Sándor",
+        "amenity": "cafe",
+        "name": "Bistro 23",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6052541,
+          46.774688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2942199602",
+      "properties": {
+        "@id": "node/2942199602",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "10",
+        "addr:postcode": "400604",
+        "addr:street": "Strada Petőfi Sándor",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Zetta Caffe",
+        "smoking": "outside",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6059023,
+          46.7741732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2955817909",
+      "properties": {
+        "@id": "node/2955817909",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "162-168",
+        "addr:postcode": "400491",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Calea Turzii",
+        "amenity": "cafe",
+        "email": "contact@apartamentunu.ro",
+        "name": "Apartament 1",
+        "operator": "SC NOSCARINA IMPEX SRL",
+        "phone": "+40 742 729 090;+40 771 711 850",
+        "smoking": "yes",
+        "website": "http://www.apartamentunu.ro/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5932703,
+          46.7491133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2966359634",
+      "properties": {
+        "@id": "node/2966359634",
+        "addr:city": "Cluj-Napoca",
+        "addr:street": "Strada George Barițiu",
+        "amenity": "cafe",
+        "name": "Infinity Games",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5863721,
+          46.7728429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2991385244",
+      "properties": {
+        "@id": "node/2991385244",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Bulevardul Eroilor",
+        "amenity": "cafe",
+        "name": "Boulevard",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5935637,
+          46.7701299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3020796533",
+      "properties": {
+        "@id": "node/3020796533",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "amenity": "cafe",
+        "name": "Irish Embassy",
+        "smoking": "outside",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5909765,
+          46.7681328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3063499397",
+      "properties": {
+        "@id": "node/3063499397",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "amenity": "cafe",
+        "internet_access": "no",
+        "name": "La Colț",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6071283,
+          46.7723224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3103625443",
+      "properties": {
+        "@id": "node/3103625443",
+        "amenity": "cafe",
+        "name": "Bistro 25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5882946,
+          46.7646374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3107529707",
+      "properties": {
+        "@id": "node/3107529707",
+        "addr:housenumber": "4",
+        "addr:street": "Strada Bogdan Petriceicu Hașdeu",
+        "amenity": "cafe",
+        "brand": "La Tina Bistro",
+        "cuisine": "sandwich",
+        "internet_access": "wlan",
+        "name": "La Tina Bistro Hasdeu",
+        "opening_hours": "Mo-Fr 08:00-24:00; Sa,Su 09:00-24:00",
+        "website": "http://www.latinabistro.ro/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5839933,
+          46.7635254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3195987918",
+      "properties": {
+        "@id": "node/3195987918",
+        "addr:city": "Cluj-Napoca",
+        "addr:housenumber": "33a",
+        "addr:postcode": "400012",
+        "addr:street": "Strada Victor Babeș",
+        "amenity": "cafe",
+        "email": "krafcicgabriel@yahoo.com",
+        "name": "Le Parisien",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "phone": "+40 747 635 294;+40 749 764 767",
+        "website": "https://www.facebook.com/leparisiencafe/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5851683,
+          46.7643016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3201700292",
+      "properties": {
+        "@id": "node/3201700292",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "14",
+        "addr:postcode": "400015",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Piața Unirii",
+        "amenity": "cafe",
+        "name": "Engels bistro",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5889078,
+          46.7694848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3234843287",
+      "properties": {
+        "@id": "node/3234843287",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "18",
+        "addr:postcode": "400193",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Calea Turzii",
+        "amenity": "cafe",
+        "contact:email": "info@laperne.ro",
+        "contact:facebook": "https://www.facebook.com/LaPerneCluj",
+        "contact:phone": "+40 743 655 258",
+        "contact:website": "http://laperne.ro/",
+        "email": "info@laperne.ro",
+        "name": "La Perne",
+        "opening_hours": "Mo-Fr 08:00-23:00;Sa-Su 10:00-23:00",
+        "phone": "+40 743 655 258",
+        "source": "website, local knowledge",
+        "website": "http://laperne.ro/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5985923,
+          46.7661191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3267576807",
+      "properties": {
+        "@id": "node/3267576807",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Bulevardul 21 Decembrie 1989",
+        "amenity": "cafe",
+        "name": "Koffer Books & Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5939516,
+          46.7719753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3325253815",
+      "properties": {
+        "@id": "node/3325253815",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Air Caffe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6877052,
+          46.7823173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3325253817",
+      "properties": {
+        "@id": "node/3325253817",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "So! Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6889285,
+          46.7824732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3325253818",
+      "properties": {
+        "@id": "node/3325253818",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6902987,
+          46.7825493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3343927569",
+      "properties": {
+        "@id": "node/3343927569",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6901364,
+          46.7827949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3343952977",
+      "properties": {
+        "@id": "node/3343952977",
+        "amenity": "cafe",
+        "name": "Ela & Cătă"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5770719,
+          46.7628569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3397070693",
+      "properties": {
+        "@id": "node/3397070693",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "1",
+        "addr:postcode": "400119",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Pitești",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Phil's",
+        "opening_hours": "Mo-Fr 08:00-20:00;Sa 10:00-22:00",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.601274,
+          46.7718898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403962523",
+      "properties": {
+        "@id": "node/3403962523",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "19",
+        "addr:postcode": "400124",
+        "addr:street": "Strada Pitești",
+        "amenity": "cafe",
+        "name": "LC Learning & Consulting",
+        "phone": "+4 0742617676",
+        "website": "http://www.learningandconsulting.ro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5997722,
+          46.7735708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3534991483",
+      "properties": {
+        "@id": "node/3534991483",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Alexandru Vaida Voevod",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "name": "Starbucks",
+        "operator": "Starbucks",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6256418,
+          46.771737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3622992113",
+      "properties": {
+        "@id": "node/3622992113",
+        "addr:housenumber": "3",
+        "addr:street": "Strada Memorandumului",
+        "amenity": "cafe",
+        "name": "Avenue Fever"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5879142,
+          46.7698737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3622993945",
+      "properties": {
+        "@id": "node/3622993945",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "5",
+        "addr:postcode": "400118",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Calea Dorobanților",
+        "amenity": "cafe",
+        "name": "Snack & Coffe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5991994,
+          46.7714642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3623068272",
+      "properties": {
+        "@id": "node/3623068272",
+        "addr:housenumber": "10",
+        "addr:street": "Strada Napoca",
+        "amenity": "cafe",
+        "name": "Giudy caffé bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5877414,
+          46.7678863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3623080654",
+      "properties": {
+        "@id": "node/3623080654",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "55",
+        "addr:postcode": "400117",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Calea Dorobanților",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Marengo Caffe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6062389,
+          46.7732728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3627096169",
+      "properties": {
+        "@id": "node/3627096169",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "amenity": "cafe",
+        "name": "PLAN Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5481545,
+          46.7691701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3687807528",
+      "properties": {
+        "@id": "node/3687807528",
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "37",
+        "addr:postcode": "400587",
+        "addr:street": "Strada Salcâmului",
+        "amenity": "cafe",
+        "contact:email": "andrei.coman@bike44.ro",
+        "contact:facebook": "https://www.facebook.com/bike44Cluj",
+        "contact:phone": "+4 0726 301 295",
+        "contact:website": "http://www.bike44.ro/",
+        "email": "andrei.coman@bike44.ro",
+        "name": "bike44",
+        "phone": "+4 0726 301 295",
+        "shop": "bicycle",
+        "source": "website",
+        "website": "http://www.bike44.ro/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.565653,
+          46.7655079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3996012657",
+      "properties": {
+        "@id": "node/3996012657",
+        "amenity": "cafe",
+        "name": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5508718,
+          46.7542282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4056055586",
+      "properties": {
+        "@id": "node/4056055586",
+        "addr:city": "Cluj-Napoca",
+        "addr:housenumber": "22",
+        "addr:postcode": "400462",
+        "addr:street": "Strada Constantin Brâncuși",
+        "amenity": "cafe",
+        "name": "Lady Cat",
+        "opening_hours": "Tu-Su 10.00-22.00; PH off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.603215,
+          46.7663611
+        ]
+      }
+    }
+  ]
+}
